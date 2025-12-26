@@ -23,11 +23,11 @@ repository               : "https://robertsanchisalvarez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "labuena.jpg"
+  avatar: "labuena.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Scholar working on Spanish transpacific narratives through archival and public-facing research."
-  location         : ""
+  location         : 
   employer         : "University of Virginia"
   uri              : "https://robertsanchisalvarez.github.io" # URL
   email            : "robert.sanchis@virginia.edu" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
