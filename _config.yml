@@ -23,7 +23,7 @@ repository               : "https://robertsanchisalvarez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/perfilweb.jpg"
+  avatar           : "/images/perfilweb.jpg"
   name             : "Robert Sanchis-Álvarez"
   pronouns         : # example: "she/her"  
   bio              : "Scholar working on Spanish transpacific narratives through archival and public-facing research."
