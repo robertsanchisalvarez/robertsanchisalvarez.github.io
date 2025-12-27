@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * University of Virginia — Ph.D. in Spanish, expected 2026  
-  Dissertation: *Beyond Empire’s Reach: Catalan and Filipino Narratives in the Shaping of Everyday Life in Colonial Philippines
+  Dissertation: *Beyond Empire’s Reach: Catalan and Filipino Narratives in the Shaping of Everyday Life in Colonial Philippines*
 * M.A. in Iberian and Latin American Literatures, University of Barcelona, 2019
 * B.A. in Spanish Language and Literature, University of Barcelona, 2017
     Erasmus Grant, Università di Catania, Italy (2016)
@@ -64,7 +64,7 @@ Grants and Awards
 
 Teaching Experience
 ======
-* Instructor, University of Virginia**
+* Instructor, University of Virginia
   - Perspectives on Modern Spain (Fall 2025)
   - Texts and Interpretation from the Global Hispanophone (Spring 2023)
   - Business Spanish (Fall 2022)
@@ -92,13 +92,10 @@ Affiliations
 - North American Catalan Society  
 - Association for Asian Studies
 
-Service
+Service and leadeship
 ======
 - Spanish House Casa Bolívar community engagement (2022; 2023; 2025)
 - Catalan Language 
 - Organizer, *Archival Crossings Initiative*: visit and workshop by Prof. Aurélie Vialette (Yale University), University of Virginia, November 2025  
   Designed and coordinated a campus-wide event on colonial archives and record-keeping; collaborated with Spanish Department and university partners
-    
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  
