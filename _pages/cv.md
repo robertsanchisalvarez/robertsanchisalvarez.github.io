@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* University of Virginia — Ph.D. in Spanish, expected 2026  
+  Dissertation: *Beyond Empire’s Reach: Catalan and Filipino Narratives in the Shaping of Everyday Life in Colonial Philippinesy
+* M.A. in Iberian and Latin American Literatures, University of Barcelona, 2019
+* B.A. in Spanish Language and Literature, University of Barcelona, 2017
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Instructor of Record, Department of Spanish, Italian and Portuguese, University of Virginia (2023-present)
+  * Courses taught: Perspectives on Modern Spain (1800–present), Texts and Interpretation from the Global Hispanophone, Business Spanish.
+  * Graduate Instructor, Spanish Language and Culture intermediate and beginner.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Director
+  *El Látigo Nacional* Repatriation Project (Fall 2022–Present)  
+  * Lead investigator for the discovery, archival study, and co-repatriation of the 1893 newspaper *El Látigo Nacional* to Universit of Philippines Visayas. Coordination with Philippine and Spanish institutions; supervision of archival work in Barcelona and Manila; editor of the forthcoming critical facsimile edition and public-humanities programming
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Publications and work in progress
+  * **Forthcoming**
+- Book. *El Látigo Nacional* (1893), facsimile edition with critical introduction. Calambur Editorial, 2026
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
