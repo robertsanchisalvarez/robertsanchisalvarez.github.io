@@ -20,10 +20,10 @@ Education
 Professional Experience
 ======
 * Instructor of Record, Department of Spanish, Italian and Portuguese, University of Virginia (2023-present)
-  * Courses taught: Perspectives on Modern Spain (1800–present), Texts and Interpretation from the Global Hispanophone, Business Spanish.
+  * Courses taught: Perspectives on Modern Spain (1800–present); Texts and Interpretation from the Global Hispanophone; Business Spanish.
   * Graduate Instructor, Spanish Language and Culture intermediate and beginner.
     
-Research and Cuatorial Experience
+Research and Curatorial Experience
 ======
 * Project Lead
   *El Látigo Nacional* Repatriation Project (Fall 2022–Present)  
@@ -94,8 +94,9 @@ Affiliations
 
 Service and leadeship
 ======
-- Spanish House Casa Bolívar community engagement (2022; 2023; 2025)
-- Catalan Language 
 - Organizer, *Archival Crossings Initiative*: visit and workshop by Prof. Aurélie Vialette (Yale University), University of Virginia, November 2025  
   Designed and coordinated a campus-wide event on colonial archives and record-keeping; collaborated with Spanish Department and university partners
+- Spanish House Casa Bolívar community engagement (2022; 2023; 2025). In-House Director.
+- Catalan Language Pod Instructor
+
   
